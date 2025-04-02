@@ -1,0 +1,21 @@
+ABC   ACB   BCA  BAC  CAB  CBA
+
+
+A       USA SSN,
+B       EMAIL ADDRESS,
+C       S E C R E T KEYWORD
+answer -
+A  -  6
+b - 6
+c - 6
+obj - 6
+
+
+300-62-3266             ahmvyqc84@gmail.com  secret
+213-46-8913 SECRET   pevreot31@yahoo.com
+nbpeyirl73@gmail.com  secret  449-48-3135
+kjstfyys94@gmail.com   559-81-1301  secret
+secret asilkypq58@hotmail.com  322-84-2281
+secret 044-34-6954   wudajp82@aol.com
+
+
